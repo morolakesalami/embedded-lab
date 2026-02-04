@@ -1,0 +1,14 @@
+# Python bits
+__pycache__/
+*.py[cod]
+
+# Logs (you usually want to see logs locally, not store them on GitHub)
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hidden folders
+.vscode/
+.idea/
